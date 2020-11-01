@@ -1,0 +1,33 @@
+.wrapper{
+    min-height: 600px;
+    background: red;
+    width: 1200px;
+}
+.header{
+    min-height: 100px;
+    background: blanchedalmond;
+}
+.container{
+    min-height: 400px;
+    background: black;
+    overflow: hidden;
+}
+.col1{
+    width: 33.33%;
+    background: #860b3e;
+    min-height: 400px;
+    float: left;
+}
+.col2{
+    width: 33.33%;
+    min-height: 400px;
+    float: left;
+    background: #00ff72;
+}
+.col3{
+    width: 33.33%;
+    background: #98a52a;
+    float: left;
+    min-height: 400px;
+}
+.footer{min-height: 100px;background: blueviolet;}
